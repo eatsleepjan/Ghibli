@@ -1,0 +1,2 @@
+# Ghibli
+Studio Ghibli Movies
